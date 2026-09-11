@@ -1,0 +1,18 @@
+{
+  "venvPath": "apps/pipeline",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "extraPaths": ["apps/pipeline/src"],
+  "include": [
+    "apps/pipeline/src",
+    "apps/pipeline/scripts",
+    "apps/pipeline/tests"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "**/.venv",
+    "**/node_modules",
+    "archive"
+  ],
+  "ignore": ["archive"]
+}

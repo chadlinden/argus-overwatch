@@ -1,0 +1,17 @@
+{
+  "run_date": "2026-09-10",
+  "cluster_id": "efa1b5c9c7ab2dde164ac034f05dcdab9be74822882c4d862e6fcf1b2258f094",
+  "review_status": "published",
+  "synthesis_backend": "local:qwen3:14b",
+  "synthesis_confidence": 0.85,
+  "eval": {
+    "cites_sources": true,
+    "distinguishes_fact_from_synthesis": true,
+    "no_unsupported_claims": true,
+    "notes": "The article appropriately attributes specific claims to sources and distinguishes between what is reported and what is inferred. All specific claims (e.g., price, event name, CEO name, availability) are supported by the source material. The article does not introduce any unsupported details or make unsupported causal claims.",
+    "passed": true
+  },
+  "original_run_configuration": "Not persisted in these checkpoints; not inferred.",
+  "model_invoked_by_this_script": false,
+  "public_release_review": "pending"
+}

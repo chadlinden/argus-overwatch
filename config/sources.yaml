@@ -1,0 +1,118 @@
+# Curated public RSS/Atom feeds. Growing toward ~150-300; every addition
+# should be verified by actually running the pipeline (see docs/ROADMAP.md) —
+# dead/renamed feed URLs are logged as warnings and skipped, not fatal.
+sources:
+  # --- World / general ---
+  - name: NPR News
+    url: https://feeds.npr.org/1001/rss.xml
+    category_hint: world
+  - name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    category_hint: world
+  - name: Al Jazeera English
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    category_hint: world
+  - name: The Guardian World
+    url: https://www.theguardian.com/world/rss
+    category_hint: world
+  - name: Sky News World
+    url: https://feeds.skynews.com/feeds/rss/world.xml
+    category_hint: world
+  - name: Deutsche Welle
+    url: https://rss.dw.com/rdf/rss-en-all
+    category_hint: world
+  - name: France24 English
+    url: https://www.france24.com/en/rss
+    category_hint: world
+
+  # --- US ---
+  - name: NPR National
+    url: https://feeds.npr.org/1003/rss.xml
+    category_hint: us
+  - name: CBS News US
+    url: https://www.cbsnews.com/latest/rss/us
+    category_hint: us
+  - name: ABC News US
+    url: https://abcnews.go.com/abcnews/usheadlines
+    category_hint: us
+  - name: The Guardian US
+    url: https://www.theguardian.com/us-news/rss
+    category_hint: us
+  - name: Politico
+    url: https://rss.politico.com/politics-news.xml
+    category_hint: us
+  - name: The Hill
+    url: https://thehill.com/feed/
+    category_hint: us
+  - name: ProPublica
+    url: https://www.propublica.org/feeds/propublica/main
+    category_hint: us
+
+  # --- Business ---
+  - name: CNBC Top News
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+    category_hint: business
+  - name: Fortune
+    url: https://fortune.com/feed/
+    category_hint: business
+  - name: Fast Company
+    url: https://www.fastcompany.com/latest/rss
+    category_hint: business
+  - name: MarketWatch Top Stories
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    category_hint: business
+
+  # --- Technology ---
+  - name: TechCrunch
+    url: https://techcrunch.com/feed/
+    category_hint: technology
+  - name: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    category_hint: technology
+  - name: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+    category_hint: technology
+  - name: Wired
+    url: https://www.wired.com/feed/rss
+    category_hint: technology
+  - name: Engadget
+    url: https://www.engadget.com/rss.xml
+    category_hint: technology
+  - name: MIT Technology Review
+    url: https://www.technologyreview.com/feed/
+    category_hint: technology
+
+  # --- Science ---
+  - name: Science Daily
+    url: https://www.sciencedaily.com/rss/top/science.xml
+    category_hint: science
+  - name: Space.com
+    url: https://www.space.com/feeds/all
+    category_hint: science
+  - name: Nature News
+    url: https://www.nature.com/nature.rss
+    category_hint: science
+
+  # # --- Health ---
+  # - name: KFF Health News
+  #   url: https://kffhealthnews.org/feed/
+  #   category_hint: health
+  # - name: STAT News
+  #   url: https://www.statnews.com/feed/
+  #   category_hint: health
+
+  # # --- Sports ---
+  # - name: ESPN Top Headlines
+  #   url: https://www.espn.com/espn/rss/news
+  #   category_hint: sports
+  # - name: BBC Sport
+  #   url: https://feeds.bbci.co.uk/sport/rss.xml
+  #   category_hint: sports
+
+  # # --- Entertainment ---
+  # - name: Variety
+  #   url: https://variety.com/feed/
+  #   category_hint: entertainment
+  # - name: The Hollywood Reporter
+  #   url: https://www.hollywoodreporter.com/feed/
+  #   category_hint: entertainment

@@ -1,0 +1,331 @@
+{
+  "source_ref": "6bcb47614fe4590cd378c3d7284acf5c78a6526a",
+  "scope": "Current allowlisted working-tree files and one reviewed saved-run sample; no Git history or other runtime data.",
+  "files": [
+    {
+      "path": ".editorconfig",
+      "bytes": 202,
+      "sha256": "942beb9a4bf6131ea124de396b1a753c28784b9830a01348a8939b396c0e7c3c"
+    },
+    {
+      "path": ".env.example",
+      "bytes": 1857,
+      "sha256": "39cee6a2100f074c2c423f16c4f3076be2ce311c51c57d47be5ac1ec18cd1777"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 502,
+      "sha256": "2086804e3a140ae1762cb5fd3ed3057f2df02c26913dd37a84d61ba1b4514011"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 345,
+      "sha256": "97892f8e70e5b62e416641c186f934052b311c0764f09ca15a76b1236ccef4f7"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 1654,
+      "sha256": "f7d4969707286bf9d4b3e91d93138ae904d1eb105975bce68b9f28c2ddc6a9dd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1068,
+      "sha256": "5b8ffb7bae7156e14a570040fab71b3eb2edb368ad1048f9b9d0cafb2b3102c8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8294,
+      "sha256": "9c07c10cbbb98de06b093fe6549bb5c07952974af6fff632cf4039f90a8ce240"
+    },
+    {
+      "path": "apps/pipeline/pyproject.toml",
+      "bytes": 827,
+      "sha256": "11e37d9309d4f9a3c5de7fc3c096898cb5e3513dcb5c84037016cc5c31fb3a8c"
+    },
+    {
+      "path": "apps/pipeline/scripts/evaluate_cluster_constraints.py",
+      "bytes": 1983,
+      "sha256": "cd3f10bdceb42e6615b8a9c570a888fc3cb55df38742d428f71e6db3d08074d1"
+    },
+    {
+      "path": "apps/pipeline/scripts/run_daily.py",
+      "bytes": 1136,
+      "sha256": "67d3fa425ee5a12e550e2a2f10bf29f662b83d698522fe694fcc5ce55d5207f9"
+    },
+    {
+      "path": "apps/pipeline/src/argus/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "apps/pipeline/src/argus/checkpoints.py",
+      "bytes": 4049,
+      "sha256": "091740f02791fc6ad18769a968b493e3ccff3b1ffc9ca3f6815ab26eadfb3ab8"
+    },
+    {
+      "path": "apps/pipeline/src/argus/cluster/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "apps/pipeline/src/argus/cluster/clustering.py",
+      "bytes": 2929,
+      "sha256": "c0fd77d0a41d5207140cd861aee6db992d18598e633be5d456cc298de6ff2270"
+    },
+    {
+      "path": "apps/pipeline/src/argus/cluster/embed.py",
+      "bytes": 955,
+      "sha256": "7c1de577be4324a12a2978434c5c6f3be2b25c834101e77344340f424d9a59c1"
+    },
+    {
+      "path": "apps/pipeline/src/argus/cluster/rank.py",
+      "bytes": 2146,
+      "sha256": "e8a26588e1aaffb1f57b98f5483bc392d7df176f829690f2a1f3c6696ba495b6"
+    },
+    {
+      "path": "apps/pipeline/src/argus/collect/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "apps/pipeline/src/argus/collect/dedupe.py",
+      "bytes": 997,
+      "sha256": "6f8339a55faf5c4540eaf0653c1b7bf5711ebb5e46df2f7b53d73b159e31a9f9"
+    },
+    {
+      "path": "apps/pipeline/src/argus/collect/fetch.py",
+      "bytes": 1792,
+      "sha256": "678c7f4961b38adc489df0c2c505694ed15b8e64d2e991e87450423bce711e66"
+    },
+    {
+      "path": "apps/pipeline/src/argus/collect/filter.py",
+      "bytes": 801,
+      "sha256": "e2be8607fe1194686f98c208f28b81e3b230fdcd71027dc7343cbae7b3f81d07"
+    },
+    {
+      "path": "apps/pipeline/src/argus/collect/normalize.py",
+      "bytes": 1728,
+      "sha256": "3d05518095b9c1100a28cd53d5fad21c5fb38d1a745cfb5794bef1ac23f7a186"
+    },
+    {
+      "path": "apps/pipeline/src/argus/config.py",
+      "bytes": 2546,
+      "sha256": "959375dfd1a98fbc5869b86d8918a86ee0382fe1130fb7f81dceb33f16f46ec1"
+    },
+    {
+      "path": "apps/pipeline/src/argus/eval/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "apps/pipeline/src/argus/eval/clusters.py",
+      "bytes": 2675,
+      "sha256": "083cf044720e8d46c373d6c01f4beda134c6c0a0294fb6c3faf2092ee32b09a2"
+    },
+    {
+      "path": "apps/pipeline/src/argus/eval/quality.py",
+      "bytes": 5019,
+      "sha256": "d9f07d2deda4d622354725dce9d0869f1bac72ac5e7d266f39c1d1940e2c937e"
+    },
+    {
+      "path": "apps/pipeline/src/argus/models.py",
+      "bytes": 6883,
+      "sha256": "f9ed10cbb9eb8f4d7f6861f8a84152924014263fd6bcc9011e49dd578afce776"
+    },
+    {
+      "path": "apps/pipeline/src/argus/pipeline.py",
+      "bytes": 4099,
+      "sha256": "c90dd86ed98121ee47cadced8b63e3493f9deed481dbcbe52f7e54e42ef46cd5"
+    },
+    {
+      "path": "apps/pipeline/src/argus/report.py",
+      "bytes": 2648,
+      "sha256": "79e1e798b065fb7a727d7b8b64e41e988720cb1410069edacc0b59f51ccc2647"
+    },
+    {
+      "path": "apps/pipeline/src/argus/scheduler.py",
+      "bytes": 1126,
+      "sha256": "c860d846477051aac6f758dd62db6056a90d805253ea57ec0bb1b68a4155e29e"
+    },
+    {
+      "path": "apps/pipeline/src/argus/synthesize/__init__.py",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "apps/pipeline/src/argus/synthesize/backends.py",
+      "bytes": 5554,
+      "sha256": "66079efc7b7d92859bd4f7605d736f50ba45bd01f9cea46b8c642c0cf65d095e"
+    },
+    {
+      "path": "apps/pipeline/src/argus/synthesize/context.py",
+      "bytes": 2063,
+      "sha256": "ae46d7271bf367628c461a931dd9ce73b407e8953ed6303ee257f64b03553e7c"
+    },
+    {
+      "path": "apps/pipeline/src/argus/synthesize/pipeline.py",
+      "bytes": 6647,
+      "sha256": "a3b1ba1224f401b9d726b5b3f83a40baeb95ddf276e3b70c40b536c26263145b"
+    },
+    {
+      "path": "apps/pipeline/src/argus/synthesize/router.py",
+      "bytes": 2453,
+      "sha256": "7ba31e9d89dace30989d60702ec3d8850a79b34719bda7605afa4a32d0532e11"
+    },
+    {
+      "path": "apps/pipeline/tests/conftest.py",
+      "bytes": 649,
+      "sha256": "9f949f252c9da4ad4bb771901add01cef6d2927216feb71486e3d229715463ec"
+    },
+    {
+      "path": "apps/pipeline/tests/test_checkpoints.py",
+      "bytes": 4510,
+      "sha256": "8aa1726a302286d25cae0210a02196846100c933c9304ec9b0401a3752929053"
+    },
+    {
+      "path": "apps/pipeline/tests/test_cluster_eval.py",
+      "bytes": 1459,
+      "sha256": "f00c2f11e09a861a919b8e97e84af350292b2c3afd661390bfb70e4aa05ff59d"
+    },
+    {
+      "path": "apps/pipeline/tests/test_config.py",
+      "bytes": 1250,
+      "sha256": "ffadaa509927146316a5445ac7464c23290bf3c4696311d8b73a5812cda99d85"
+    },
+    {
+      "path": "apps/pipeline/tests/test_context.py",
+      "bytes": 1774,
+      "sha256": "7a043312113dee66988d8f14fb16ec64cb16b34a618600e1d522042a597bf010"
+    },
+    {
+      "path": "apps/pipeline/tests/test_prepare_sample.py",
+      "bytes": 3124,
+      "sha256": "2a19e23c241ae8d11a11fc61044e4930aba1e3b696589664ac772a5d146dd71c"
+    },
+    {
+      "path": "apps/pipeline/tests/test_rank.py",
+      "bytes": 2280,
+      "sha256": "eea3e1ffb93a761cfeb361651a555793b69db844fb44387ef633940f9a53de73"
+    },
+    {
+      "path": "apps/pipeline/tests/test_resume.py",
+      "bytes": 4439,
+      "sha256": "37bf43cc86e9c9fce5a99d2a04cf9b6b2b3e7017d1f7e8eb5779e6a53603ea63"
+    },
+    {
+      "path": "apps/pipeline/tests/test_router.py",
+      "bytes": 2316,
+      "sha256": "d98ff7e727d2faafcd22b33c2ad5b3f49482d458acfcc1c926e4d59dcd8905e5"
+    },
+    {
+      "path": "apps/pipeline/tests/test_synthesize_pipeline.py",
+      "bytes": 6395,
+      "sha256": "df20aea3d280ebf918d8c1486abb8e7b70ceac896b73440eb21de31e6aa531b0"
+    },
+    {
+      "path": "apps/pipeline/uv.lock",
+      "bytes": 210321,
+      "sha256": "a92cde14eeb480daeb7ad54fcdd7397785c89c78e38007ecb4944b39578a0f38"
+    },
+    {
+      "path": "config/sources.yaml",
+      "bytes": 3651,
+      "sha256": "65c3b809a704cc343642ae9325d2207cbba7b4fd3ff8c2b0924a69b66f5dda4a"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 6524,
+      "sha256": "add6e8f61248dd740a603acc020a1a4bbbf8d9669295434ad4195754cfab09e9"
+    },
+    {
+      "path": "docs/EVALUATION.md",
+      "bytes": 2636,
+      "sha256": "5212198d3fff5e89d3a23f04076cdb4b547fe8225c4941e9c3f6cd1ececfa60b"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 4680,
+      "sha256": "0fd6342edc7b1a5fea328af9c6f30db0987c4ddf7040130f095566aaff3707ef"
+    },
+    {
+      "path": "docs/adr/0001-single-container-no-web-app-for-v1.md",
+      "bytes": 1633,
+      "sha256": "6cbf22ab098d372525a91c72e858db4a0c5ce42d6f1f6dcc0f5173e60b1df8ca"
+    },
+    {
+      "path": "docs/adr/0002-v4-bounded-agent-synthesis.md",
+      "bytes": 7998,
+      "sha256": "a9d8355b9fd49763e1b33f9c3e31032b32c04b9f24b29fe88373cb5b5e855aee"
+    },
+    {
+      "path": "docs/pipeline-flow.md",
+      "bytes": 1699,
+      "sha256": "7628bc1411772dc7d1bbb792f18b4d3228f5b86d325377784f6e9efd10370704"
+    },
+    {
+      "path": "evals/golden/cluster_cases.jsonl",
+      "bytes": 2003,
+      "sha256": "902c47d853175f3dbee8e252295b3049e5cc39f18cfc211607557d58e1e4e1e1"
+    },
+    {
+      "path": "evals/golden/cluster_constraints.jsonl",
+      "bytes": 2601,
+      "sha256": "65e6283cfcb8361425371d13f6d84a0c52f1715986b8d0143554474381636070"
+    },
+    {
+      "path": "examples/README.md",
+      "bytes": 2443,
+      "sha256": "de6ed136254c3744b8861c6278b2b17b197c6407cbb542c9df3695c50b35292b"
+    },
+    {
+      "path": "examples/real-run/2026-09-10/apple-unveils-first-foldable-iphone-in-major-product-update.md",
+      "bytes": 3034,
+      "sha256": "e0cd942ffa4c93a71e31661c7bd2d4b19fb5d7fb9eb395f58e42c70a7401ba1a"
+    },
+    {
+      "path": "examples/real-run/2026-09-10/index.md",
+      "bytes": 219,
+      "sha256": "44ef290a38c8cb1d44325931f5cb2860d20a934f31360a12d716e09a7e91ed12"
+    },
+    {
+      "path": "examples/real-run/README.md",
+      "bytes": 563,
+      "sha256": "89664fbf39a6841303b71f9d9c9612756c9dcc51eb2f07f1a103732098a83662"
+    },
+    {
+      "path": "examples/real-run/REVIEW.md",
+      "bytes": 3484,
+      "sha256": "c9f87284391da7c278d94624232f7e99958baa51b357b1a533b51871d427722e"
+    },
+    {
+      "path": "examples/real-run/provenance.json",
+      "bytes": 873,
+      "sha256": "c3a556d713eda6cee1865761b7bc601a21ab13112a245218323c6a0c43f53d36"
+    },
+    {
+      "path": "examples/real-run/source-context.json",
+      "bytes": 4619,
+      "sha256": "6429058e797efb0ca596d428224e54a27bf2a8cd8874da2966ad96cfdb384653"
+    },
+    {
+      "path": "examples/real-run/story.json",
+      "bytes": 2778,
+      "sha256": "e901f2d7250f83de642e3703f84b3dabb0a0b0dd85f162adeab770d344d793bb"
+    },
+    {
+      "path": "pyrightconfig.json",
+      "bytes": 339,
+      "sha256": "62d298891384b904bbd23e1db747138a89dc857406665f848a125f84a4123f6a"
+    },
+    {
+      "path": "scripts/export_portfolio.py",
+      "bytes": 3414,
+      "sha256": "6c92d9461f83ead0b5d358f0cff259c9abdd680c1d8457ddca399ab92ebf5843"
+    },
+    {
+      "path": "scripts/prepare_sample.py",
+      "bytes": 4709,
+      "sha256": "f4930eb8cabd8166c3c02a116038602ba25c8cb6df371edb7484a0e6854bc85e"
+    }
+  ]
+}

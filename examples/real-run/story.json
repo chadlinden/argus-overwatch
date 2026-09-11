@@ -1,0 +1,28 @@
+{
+  "cluster_id": "efa1b5c9c7ab2dde164ac034f05dcdab9be74822882c4d862e6fcf1b2258f094",
+  "title": "Apple unveils first foldable iPhone in major product update",
+  "body_markdown": "Apple has unveiled its first foldable iPhone, the iPhone Duo, during a product launch event in California. The device, priced at $2,000 (or \u00a31,999), marks the first major design change to the iPhone in nearly 20 years, according to BBC World. The event, headlined by Apple\u2019s new CEO, John Ternus, who took over from Tim Cook on Sept. 1, featured the debut of the foldable smartphone alongside refreshed Pro models, as reported by CNBC Top News. According to Ars Technica, the iPhone Duo is expected to be available next month. The launch, described by The Hill as a significant moment for Apple, also included updates to the AirPods and Apple Watch. Fortune noted that this is the biggest iPhone update in years, with Ternus taking the stage for his first public appearance as CEO. The event, titled \u201cSurprise and Shine,\u201d highlighted Apple\u2019s shift in product design and strategy under Ternus\u2019s leadership.",
+  "citations": [
+    "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+    "https://news.sky.com/story/apple-launches-first-foldable-iphone-its-most-expensive-to-date-13583745",
+    "https://abcnews.com/US/wireStory/apple-unveil-latest-iphone-lineup-john-ternus-steps-136292829",
+    "https://thehill.com/policy/technology/6080164-apple-unveils-foldable-iphone-duo-ternus-debut/",
+    "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+    "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
+    "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+    "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
+    "https://www.wired.com/story/everything-apple-announced-september-2026/",
+    "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+    "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/"
+  ],
+  "review_status": "published",
+  "synthesis_backend": "local:qwen3:14b",
+  "synthesis_confidence": 0.85,
+  "eval": {
+    "cites_sources": true,
+    "distinguishes_fact_from_synthesis": true,
+    "no_unsupported_claims": true,
+    "notes": "The article appropriately attributes specific claims to sources and distinguishes between what is reported and what is inferred. All specific claims (e.g., price, event name, CEO name, availability) are supported by the source material. The article does not introduce any unsupported details or make unsupported causal claims.",
+    "passed": true
+  }
+}

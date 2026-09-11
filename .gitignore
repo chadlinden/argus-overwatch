@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.pyc
+*.egg-info/
+.hf-cache/
+
+# Env/secrets
+.env
+.env.*
+!.env.example
+
+# Runtime artifacts (any app)
+**/reports/**/*.md
+!**/reports/.gitkeep
+**/data/raw/*
+!**/data/raw/.gitkeep
+**/data/processed/*
+!**/data/processed/.gitkeep
+**/data/stories/*
+**/data/cache/
+
+# Logs
+*.log

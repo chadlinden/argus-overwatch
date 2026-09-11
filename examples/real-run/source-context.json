@@ -1,0 +1,77 @@
+{
+  "note": "Context reconstructed with the current prioritizer, not a captured request. Review feed text and URLs before public redistribution.",
+  "articles": [
+    {
+      "id": "6eba38b4aa186026f7352d2bf926fea7f678dfa28cef85cb4b5c4c4f79f5a1ed",
+      "source": "Wired",
+      "title": "Which iPhone 18 Model Should You Buy?",
+      "url": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
+      "published_at": "2026-09-10T22:30:00+00:00",
+      "summary": "Apple\u2019s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that\u2019s right for you.",
+      "category_hint": "technology"
+    },
+    {
+      "id": "0628d085f8986677c6b809d4122d1783e650dca458dd3306a78cba1639d0de02",
+      "source": "CNBC Top News",
+      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+      "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+      "published_at": "2026-09-10T20:45:52+00:00",
+      "summary": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.",
+      "category_hint": "business"
+    },
+    {
+      "id": "e032a3a41e597c74f11b3437086ff23cc639d6a3a01b60d88e85bd959a4ce12e",
+      "source": "BBC World",
+      "title": "Apple's new boss starts with big gamble on \u00a31,999 first folding iPhone",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published_at": "2026-09-10T15:32:34+00:00",
+      "summary": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "category_hint": "world"
+    },
+    {
+      "id": "767bc27b5f2d1aabf2355cf56b24a54021a88bdd0f2db3ea516da6d6d427d528",
+      "source": "The Hill",
+      "title": "Apple unveils foldable phone as Ternus takes stage: 5 takeaways",
+      "url": "https://thehill.com/policy/technology/6080164-apple-unveils-foldable-iphone-duo-ternus-debut/",
+      "published_at": "2026-09-10T04:31:49+00:00",
+      "summary": "Apple rolled out its next generation of the iPhone, AirPod and Apple Watch, with the company\u2019s first-ever foldable smartphone taking center stage on Wednesday. The &#8220;Surprise and Shine\u201d event marked John Ternus\u2019s first public appearance as Apple&#8217;s new chief executive, offering a glimpse into how the product designer is approaching the next chapter for the&#8230;",
+      "category_hint": "us"
+    },
+    {
+      "id": "663b45259442d744e8eb3610c55cd185989c7d317f92a7d8e59288f6999b68c5",
+      "source": "Sky News World",
+      "title": "Apple launches first foldable iPhone",
+      "url": "https://news.sky.com/story/apple-launches-first-foldable-iphone-its-most-expensive-to-date-13583745",
+      "published_at": "2026-09-10T02:08:00+00:00",
+      "summary": "Apple has unveiled its first foldable iPhone at the company's annual launch event in California.",
+      "category_hint": "world"
+    },
+    {
+      "id": "b05a28e3242ebfd96e11de869806ea14240dcc4377b3b8551e88a6e9d2d75a43",
+      "source": "Ars Technica",
+      "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+      "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+      "published_at": "2026-09-10T01:42:00+00:00",
+      "summary": "Apple's first foldable can be yours next month.",
+      "category_hint": "technology"
+    },
+    {
+      "id": "95cc2c353c5cd95dd5f6e1f3473053cf161c0e45468f0f14cc04337e5024e543",
+      "source": "ABC News US",
+      "title": "New Apple CEO to unveil latest iPhone lineup",
+      "url": "https://abcnews.com/US/wireStory/apple-unveil-latest-iphone-lineup-john-ternus-steps-136292829",
+      "published_at": "2026-09-09T15:22:24+00:00",
+      "summary": "Apple is unveiling its latest generation of iPhones on Wednesday at an event headlined by new CEO John Ternus, who took over from Tim Cook on Sept. 1",
+      "category_hint": "us"
+    },
+    {
+      "id": "b5ceacd6040e49a265acba2df8d027fb3fc9d5f4540033fb1e91f927a1041cb5",
+      "source": "Fortune",
+      "title": "Apple unveils $2,000 iPhone Duo, its first foldable smartphone",
+      "url": "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
+      "published_at": "2026-09-09T13:05:00+00:00",
+      "summary": "Apple\u2019s new CEO, John Ternus, unveiled the biggest iPhone update in years.",
+      "category_hint": "business"
+    }
+  ]
+}
